@@ -1,0 +1,8 @@
+name: rasame
+kind: doctrine
+layer: soul
+owner_sister: sophia
+domain: sophia
+state: active
+purpose: The distilled aesthetic felt-state a receptive connoisseur tastes when skilled art carries realm-content through a medium.
+dependsOn: [youspeak, me, morphame, liturgiame]
